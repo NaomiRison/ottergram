@@ -46,4 +46,18 @@
 
 
 }
+@media all and (max-width: 1600px) {
+    .detail-title{
+  color: white;
+  font-weight: 40px;
+
+  position: absolute;
+  bottom: 70px;
+  left: 4px;
+
+  
+
+
+}
+
 
